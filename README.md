@@ -1,1 +1,1 @@
-# c-primer-plus-exercises
+# C Primer Plus Exercises
