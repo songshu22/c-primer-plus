@@ -1,0 +1,3 @@
+/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir
