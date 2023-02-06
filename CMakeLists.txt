@@ -73,4 +73,11 @@ add_executable(c_primer_plus
         Chapter8-Character-IO-and-Input-Validation/Ex8-4.c
         Chapter8-Character-IO-and-Input-Validation/Ex8-5.c
         Chapter8-Character-IO-and-Input-Validation/Ex8-6.c
-        Chapter8-Character-IO-and-Input-Validation/Ex8-7.c)
+        Chapter8-Character-IO-and-Input-Validation/Ex8-7.c
+        Chapter8-Character-IO-and-Input-Validation/Ex8-8.c
+        Chapter9-Functions/Ex9-1.c
+        Chapter9-Functions/Ex9-2.c
+        Chapter9-Functions/Ex9-3.c
+        Chapter9-Functions/Ex9-4.c
+        Chapter9-Functions/Ex9-5.c
+        Chapter9-Functions/Ex9-6.c)

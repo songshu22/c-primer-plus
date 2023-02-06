@@ -73,7 +73,14 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-5.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-5.c.o"
   "/home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-6.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-6.c.o"
   "/home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o"
   "/home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/a.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/a.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-1.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-2.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-3.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-4.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-5.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o"
+  "/home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-6.c" "/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

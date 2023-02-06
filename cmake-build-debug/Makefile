@@ -1986,6 +1986,33 @@ Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.s:
 	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.s
 .PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.s
 
+Chapter8-Character-IO-and-Input-Validation/Ex8-8.o: Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o
+
+.PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-8.o
+
+# target to build an object file
+Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o
+.PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o
+
+Chapter8-Character-IO-and-Input-Validation/Ex8-8.i: Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i
+
+.PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-8.i
+
+# target to preprocess a source file
+Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i
+.PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i
+
+Chapter8-Character-IO-and-Input-Validation/Ex8-8.s: Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s
+
+.PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-8.s
+
+# target to generate assembly for a file
+Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s
+.PHONY : Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s
+
 Chapter8-Character-IO-and-Input-Validation/a.o: Chapter8-Character-IO-and-Input-Validation/a.c.o
 
 .PHONY : Chapter8-Character-IO-and-Input-Validation/a.o
@@ -2012,6 +2039,168 @@ Chapter8-Character-IO-and-Input-Validation/a.s: Chapter8-Character-IO-and-Input-
 Chapter8-Character-IO-and-Input-Validation/a.c.s:
 	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/a.c.s
 .PHONY : Chapter8-Character-IO-and-Input-Validation/a.c.s
+
+Chapter9-Functions/Ex9-1.o: Chapter9-Functions/Ex9-1.c.o
+
+.PHONY : Chapter9-Functions/Ex9-1.o
+
+# target to build an object file
+Chapter9-Functions/Ex9-1.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o
+.PHONY : Chapter9-Functions/Ex9-1.c.o
+
+Chapter9-Functions/Ex9-1.i: Chapter9-Functions/Ex9-1.c.i
+
+.PHONY : Chapter9-Functions/Ex9-1.i
+
+# target to preprocess a source file
+Chapter9-Functions/Ex9-1.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.i
+.PHONY : Chapter9-Functions/Ex9-1.c.i
+
+Chapter9-Functions/Ex9-1.s: Chapter9-Functions/Ex9-1.c.s
+
+.PHONY : Chapter9-Functions/Ex9-1.s
+
+# target to generate assembly for a file
+Chapter9-Functions/Ex9-1.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.s
+.PHONY : Chapter9-Functions/Ex9-1.c.s
+
+Chapter9-Functions/Ex9-2.o: Chapter9-Functions/Ex9-2.c.o
+
+.PHONY : Chapter9-Functions/Ex9-2.o
+
+# target to build an object file
+Chapter9-Functions/Ex9-2.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o
+.PHONY : Chapter9-Functions/Ex9-2.c.o
+
+Chapter9-Functions/Ex9-2.i: Chapter9-Functions/Ex9-2.c.i
+
+.PHONY : Chapter9-Functions/Ex9-2.i
+
+# target to preprocess a source file
+Chapter9-Functions/Ex9-2.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.i
+.PHONY : Chapter9-Functions/Ex9-2.c.i
+
+Chapter9-Functions/Ex9-2.s: Chapter9-Functions/Ex9-2.c.s
+
+.PHONY : Chapter9-Functions/Ex9-2.s
+
+# target to generate assembly for a file
+Chapter9-Functions/Ex9-2.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.s
+.PHONY : Chapter9-Functions/Ex9-2.c.s
+
+Chapter9-Functions/Ex9-3.o: Chapter9-Functions/Ex9-3.c.o
+
+.PHONY : Chapter9-Functions/Ex9-3.o
+
+# target to build an object file
+Chapter9-Functions/Ex9-3.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o
+.PHONY : Chapter9-Functions/Ex9-3.c.o
+
+Chapter9-Functions/Ex9-3.i: Chapter9-Functions/Ex9-3.c.i
+
+.PHONY : Chapter9-Functions/Ex9-3.i
+
+# target to preprocess a source file
+Chapter9-Functions/Ex9-3.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.i
+.PHONY : Chapter9-Functions/Ex9-3.c.i
+
+Chapter9-Functions/Ex9-3.s: Chapter9-Functions/Ex9-3.c.s
+
+.PHONY : Chapter9-Functions/Ex9-3.s
+
+# target to generate assembly for a file
+Chapter9-Functions/Ex9-3.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.s
+.PHONY : Chapter9-Functions/Ex9-3.c.s
+
+Chapter9-Functions/Ex9-4.o: Chapter9-Functions/Ex9-4.c.o
+
+.PHONY : Chapter9-Functions/Ex9-4.o
+
+# target to build an object file
+Chapter9-Functions/Ex9-4.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o
+.PHONY : Chapter9-Functions/Ex9-4.c.o
+
+Chapter9-Functions/Ex9-4.i: Chapter9-Functions/Ex9-4.c.i
+
+.PHONY : Chapter9-Functions/Ex9-4.i
+
+# target to preprocess a source file
+Chapter9-Functions/Ex9-4.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.i
+.PHONY : Chapter9-Functions/Ex9-4.c.i
+
+Chapter9-Functions/Ex9-4.s: Chapter9-Functions/Ex9-4.c.s
+
+.PHONY : Chapter9-Functions/Ex9-4.s
+
+# target to generate assembly for a file
+Chapter9-Functions/Ex9-4.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.s
+.PHONY : Chapter9-Functions/Ex9-4.c.s
+
+Chapter9-Functions/Ex9-5.o: Chapter9-Functions/Ex9-5.c.o
+
+.PHONY : Chapter9-Functions/Ex9-5.o
+
+# target to build an object file
+Chapter9-Functions/Ex9-5.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o
+.PHONY : Chapter9-Functions/Ex9-5.c.o
+
+Chapter9-Functions/Ex9-5.i: Chapter9-Functions/Ex9-5.c.i
+
+.PHONY : Chapter9-Functions/Ex9-5.i
+
+# target to preprocess a source file
+Chapter9-Functions/Ex9-5.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.i
+.PHONY : Chapter9-Functions/Ex9-5.c.i
+
+Chapter9-Functions/Ex9-5.s: Chapter9-Functions/Ex9-5.c.s
+
+.PHONY : Chapter9-Functions/Ex9-5.s
+
+# target to generate assembly for a file
+Chapter9-Functions/Ex9-5.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.s
+.PHONY : Chapter9-Functions/Ex9-5.c.s
+
+Chapter9-Functions/Ex9-6.o: Chapter9-Functions/Ex9-6.c.o
+
+.PHONY : Chapter9-Functions/Ex9-6.o
+
+# target to build an object file
+Chapter9-Functions/Ex9-6.c.o:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o
+.PHONY : Chapter9-Functions/Ex9-6.c.o
+
+Chapter9-Functions/Ex9-6.i: Chapter9-Functions/Ex9-6.c.i
+
+.PHONY : Chapter9-Functions/Ex9-6.i
+
+# target to preprocess a source file
+Chapter9-Functions/Ex9-6.c.i:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.i
+.PHONY : Chapter9-Functions/Ex9-6.c.i
+
+Chapter9-Functions/Ex9-6.s: Chapter9-Functions/Ex9-6.c.s
+
+.PHONY : Chapter9-Functions/Ex9-6.s
+
+# target to generate assembly for a file
+Chapter9-Functions/Ex9-6.c.s:
+	$(MAKE) -f CMakeFiles/c_primer_plus.dir/build.make CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.s
+.PHONY : Chapter9-Functions/Ex9-6.c.s
 
 # Help Target
 help:
@@ -2229,9 +2418,30 @@ help:
 	@echo "... Chapter8-Character-IO-and-Input-Validation/Ex8-7.o"
 	@echo "... Chapter8-Character-IO-and-Input-Validation/Ex8-7.i"
 	@echo "... Chapter8-Character-IO-and-Input-Validation/Ex8-7.s"
+	@echo "... Chapter8-Character-IO-and-Input-Validation/Ex8-8.o"
+	@echo "... Chapter8-Character-IO-and-Input-Validation/Ex8-8.i"
+	@echo "... Chapter8-Character-IO-and-Input-Validation/Ex8-8.s"
 	@echo "... Chapter8-Character-IO-and-Input-Validation/a.o"
 	@echo "... Chapter8-Character-IO-and-Input-Validation/a.i"
 	@echo "... Chapter8-Character-IO-and-Input-Validation/a.s"
+	@echo "... Chapter9-Functions/Ex9-1.o"
+	@echo "... Chapter9-Functions/Ex9-1.i"
+	@echo "... Chapter9-Functions/Ex9-1.s"
+	@echo "... Chapter9-Functions/Ex9-2.o"
+	@echo "... Chapter9-Functions/Ex9-2.i"
+	@echo "... Chapter9-Functions/Ex9-2.s"
+	@echo "... Chapter9-Functions/Ex9-3.o"
+	@echo "... Chapter9-Functions/Ex9-3.i"
+	@echo "... Chapter9-Functions/Ex9-3.s"
+	@echo "... Chapter9-Functions/Ex9-4.o"
+	@echo "... Chapter9-Functions/Ex9-4.i"
+	@echo "... Chapter9-Functions/Ex9-4.s"
+	@echo "... Chapter9-Functions/Ex9-5.o"
+	@echo "... Chapter9-Functions/Ex9-5.i"
+	@echo "... Chapter9-Functions/Ex9-5.s"
+	@echo "... Chapter9-Functions/Ex9-6.o"
+	@echo "... Chapter9-Functions/Ex9-6.i"
+	@echo "... Chapter9-Functions/Ex9-6.s"
 .PHONY : help
 
 

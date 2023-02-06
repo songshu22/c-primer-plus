@@ -967,6 +967,97 @@ CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c -o CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.s
 
+CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o: ../Chapter8-Character-IO-and-Input-Validation/Ex8-8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c
+
+CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c > CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c -o CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.s
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o: ../Chapter9-Functions/Ex9-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-1.c
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-1.c > CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-1.c -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.s
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o: ../Chapter9-Functions/Ex9-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-2.c
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-2.c > CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-2.c -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.s
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o: ../Chapter9-Functions/Ex9-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-3.c
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-3.c > CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-3.c -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.s
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o: ../Chapter9-Functions/Ex9-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-4.c
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-4.c > CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-4.c -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.s
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o: ../Chapter9-Functions/Ex9-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-5.c
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-5.c > CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-5.c -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.s
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o: CMakeFiles/c_primer_plus.dir/flags.make
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o: ../Chapter9-Functions/Ex9-6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o   -c /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-6.c
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-6.c > CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.i
+
+CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/qiaochen/code/c/c-primer-plus/Chapter9-Functions/Ex9-6.c -o CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.s
+
 # Object files for target c_primer_plus
 c_primer_plus_OBJECTS = \
 "CMakeFiles/c_primer_plus.dir/Chapter2-Introducing-C/Ex2-1.c.o" \
@@ -1038,7 +1129,14 @@ c_primer_plus_OBJECTS = \
 "CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-4.c.o" \
 "CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-5.c.o" \
 "CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-6.c.o" \
-"CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.o"
+"CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o" \
+"CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o"
 
 # External object files for target c_primer_plus
 c_primer_plus_EXTERNAL_OBJECTS =
@@ -1113,9 +1211,16 @@ c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Vali
 c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-5.c.o
 c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-6.c.o
 c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-7.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter8-Character-IO-and-Input-Validation/Ex8-8.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-1.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-2.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-3.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-4.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-5.c.o
+c_primer_plus: CMakeFiles/c_primer_plus.dir/Chapter9-Functions/Ex9-6.c.o
 c_primer_plus: CMakeFiles/c_primer_plus.dir/build.make
 c_primer_plus: CMakeFiles/c_primer_plus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Linking C executable c_primer_plus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/qiaochen/code/c/c-primer-plus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Linking C executable c_primer_plus"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c_primer_plus.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
